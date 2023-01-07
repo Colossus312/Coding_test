@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BaekJoon/8393.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaekJoon/8958.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/10171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaekJoon/9498.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,8 @@
       <workItem from="1672745231174" duration="1219000" />
       <workItem from="1672830881203" duration="669000" />
       <workItem from="1672925321920" duration="167000" />
-      <workItem from="1673005862475" duration="761000" />
+      <workItem from="1673005862475" duration="784000" />
+      <workItem from="1673099276606" duration="43000" />
     </task>
     <servers />
   </component>
