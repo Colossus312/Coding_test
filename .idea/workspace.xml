@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/문자열을 정수로 바꾸기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +107,8 @@
       <workItem from="1674647838055" duration="611000" />
       <workItem from="1674732819706" duration="331000" />
       <workItem from="1674819189663" duration="710000" />
-      <workItem from="1674921114673" duration="298000" />
+      <workItem from="1674921114673" duration="345000" />
+      <workItem from="1675080329993" duration="607000" />
     </task>
     <servers />
   </component>
