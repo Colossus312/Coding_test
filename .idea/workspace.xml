@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/나누어 떨어지는 숫자 배열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/핸드폰 번호 가리기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -114,7 +114,8 @@
       <workItem from="1675348556084" duration="285000" />
       <workItem from="1675421605285" duration="526000" />
       <workItem from="1675518920506" duration="172000" />
-      <workItem from="1675562774674" duration="23000" />
+      <workItem from="1675562774674" duration="106000" />
+      <workItem from="1675683152188" duration="975000" />
     </task>
     <servers />
   </component>
