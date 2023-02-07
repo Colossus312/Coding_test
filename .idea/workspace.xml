@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/핸드폰 번호 가리기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/제일 작은 수 제거하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +115,8 @@
       <workItem from="1675421605285" duration="526000" />
       <workItem from="1675518920506" duration="172000" />
       <workItem from="1675562774674" duration="106000" />
-      <workItem from="1675683152188" duration="975000" />
+      <workItem from="1675683152188" duration="986000" />
+      <workItem from="1675764022686" duration="621000" />
     </task>
     <servers />
   </component>
