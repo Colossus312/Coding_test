@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/부족한 금액 계산하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/행렬의 덧셈.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +123,8 @@
       <workItem from="1676126837437" duration="256000" />
       <workItem from="1676180085743" duration="38000" />
       <workItem from="1676299745643" duration="106000" />
-      <workItem from="1676376567102" duration="342000" />
+      <workItem from="1676376567102" duration="940000" />
+      <workItem from="1676470172545" duration="177000" />
     </task>
     <servers />
   </component>
