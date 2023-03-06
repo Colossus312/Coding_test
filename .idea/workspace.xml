@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Roman to Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Build Array from Permutation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +144,8 @@
       <workItem from="1677766012484" duration="470000" />
       <workItem from="1677848690123" duration="54000" />
       <workItem from="1677935399091" duration="339000" />
-      <workItem from="1677982095892" duration="593000" />
+      <workItem from="1677982095892" duration="609000" />
+      <workItem from="1678107912005" duration="37000" />
     </task>
     <servers />
   </component>
