@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Final Value of Variable After Performing Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Left and Right Sum Differences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +151,8 @@
       <workItem from="1678363786001" duration="617000" />
       <workItem from="1678453964599" duration="172000" />
       <workItem from="1678544091482" duration="614000" />
-      <workItem from="1678632905564" duration="201000" />
+      <workItem from="1678632905564" duration="244000" />
+      <workItem from="1678706031077" duration="598000" />
     </task>
     <servers />
   </component>
