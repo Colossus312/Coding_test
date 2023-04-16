@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/To Lower Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Convert Binary Number in a Linked List to Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +190,8 @@
       <workItem from="1681300316525" duration="527000" />
       <workItem from="1681382813075" duration="637000" />
       <workItem from="1681481887137" duration="402000" />
-      <workItem from="1681558783980" duration="153000" />
+      <workItem from="1681558783980" duration="170000" />
+      <workItem from="1681646364541" duration="739000" />
     </task>
     <servers />
   </component>
