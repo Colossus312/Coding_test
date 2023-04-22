@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Sort the People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Delete Greatest Value in Each Row.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,8 @@
       <workItem from="1681825621537" duration="136000" />
       <workItem from="1681900087949" duration="1231000" />
       <workItem from="1682001205787" duration="194000" />
-      <workItem from="1682082524968" duration="618000" />
+      <workItem from="1682082524968" duration="650000" />
+      <workItem from="1682141576926" duration="252000" />
     </task>
     <servers />
   </component>
