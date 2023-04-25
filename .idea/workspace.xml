@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/Design Parking System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank/Java Singleton Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/크기가 작은 부분 문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/크기가 작은 부분 문자열.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alehd\IdeaProjects\Coding_test\Programmers" />
       <recent name="C:\Users\alehd\IdeaProjects\Coding_test" />
     </key>
   </component>
@@ -199,7 +201,8 @@
       <workItem from="1682082524968" duration="650000" />
       <workItem from="1682141576926" duration="260000" />
       <workItem from="1682251350324" duration="269000" />
-      <workItem from="1682330342900" duration="741000" />
+      <workItem from="1682330342900" duration="756000" />
+      <workItem from="1682416491821" duration="2188000" />
     </task>
     <servers />
   </component>
