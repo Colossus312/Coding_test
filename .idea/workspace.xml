@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/두 수의 차.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/두 수의 합.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +203,7 @@
       <workItem from="1682416491821" duration="2205000" />
       <workItem from="1682511686564" duration="658000" />
       <workItem from="1682607399183" duration="36000" />
-      <workItem from="1682692313842" duration="338000" />
+      <workItem from="1682692313842" duration="365000" />
     </task>
     <servers />
   </component>
