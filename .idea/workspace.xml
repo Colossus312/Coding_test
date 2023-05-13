@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/길이에 따른 연산.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/길이에 따른 연산.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +218,7 @@
       <workItem from="1683809849338" duration="635000" />
       <workItem from="1683902273266" duration="196000" />
       <workItem from="1683902499428" duration="45000" />
-      <workItem from="1683978470077" duration="448000" />
+      <workItem from="1683978470077" duration="1002000" />
     </task>
     <servers />
   </component>
