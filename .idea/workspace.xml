@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/점의 위치 구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/점의 위치 구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/첫 번째로 나오는 음수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +223,8 @@
       <workItem from="1683902499428" duration="45000" />
       <workItem from="1683978470077" duration="1721000" />
       <workItem from="1684030797643" duration="352000" />
-      <workItem from="1684144792535" duration="819000" />
+      <workItem from="1684144792535" duration="867000" />
+      <workItem from="1684237241514" duration="501000" />
     </task>
     <servers />
   </component>
