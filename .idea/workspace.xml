@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/원하는 문자열 찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/원하는 문자열 찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +232,7 @@
       <workItem from="1684506777717" duration="717000" />
       <workItem from="1684554164608" duration="1333000" />
       <workItem from="1684665654575" duration="442000" />
-      <workItem from="1684753810512" duration="610000" />
+      <workItem from="1684753810512" duration="615000" />
     </task>
     <servers />
   </component>
