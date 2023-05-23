@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Programmers/짝수 홀수 개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/짝수 홀수 개수.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +233,7 @@
       <workItem from="1684554164608" duration="1333000" />
       <workItem from="1684665654575" duration="442000" />
       <workItem from="1684753810512" duration="669000" />
-      <workItem from="1684836238205" duration="612000" />
+      <workItem from="1684836238205" duration="617000" />
     </task>
     <servers />
   </component>
