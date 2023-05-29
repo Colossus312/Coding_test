@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Programmers/자릿수 더하기-.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/자릿수 더하기-.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +240,7 @@
       <workItem from="1685104533446" duration="9000" />
       <workItem from="1685148588793" duration="1334000" />
       <workItem from="1685240195944" duration="462000" />
-      <workItem from="1685330566326" duration="534000" />
+      <workItem from="1685330566326" duration="541000" />
     </task>
     <servers />
   </component>
