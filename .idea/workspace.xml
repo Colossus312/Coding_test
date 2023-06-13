@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/뒤에서 5등 위로.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/뒤에서 5등 위로.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +252,7 @@
       <workItem from="1686283702578" duration="644000" />
       <workItem from="1686359046085" duration="240000" />
       <workItem from="1686452620530" duration="721000" />
-      <workItem from="1686576483057" duration="114000" />
+      <workItem from="1686576483057" duration="227000" />
     </task>
     <servers />
   </component>
