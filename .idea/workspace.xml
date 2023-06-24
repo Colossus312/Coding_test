@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/제곱수 판별하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/제곱수 판별하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/배열 비교하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +267,7 @@
       <workItem from="1687435691162" duration="297000" />
       <workItem from="1687436041491" duration="40000" />
       <workItem from="1687524042606" duration="797000" />
-      <workItem from="1687572833162" duration="547000" />
+      <workItem from="1687572833162" duration="815000" />
     </task>
     <servers />
   </component>
