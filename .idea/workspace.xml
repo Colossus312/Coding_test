@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/부분 문자열 이어 붙여 문자열 만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/부분 문자열 이어 붙여 문자열 만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/홀짝에 따라 다른 값 반환하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +283,8 @@
       <workItem from="1688474853585" duration="620000" />
       <workItem from="1688552195525" duration="627000" />
       <workItem from="1688641458372" duration="627000" />
-      <workItem from="1688726682571" duration="1245000" />
+      <workItem from="1688726682571" duration="1250000" />
+      <workItem from="1688800477608" duration="989000" />
     </task>
     <servers />
   </component>
