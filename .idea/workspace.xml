@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/홀짝에 따라 다른 값 반환하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/홀짝에 따라 다른 값 반환하기.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,7 +281,7 @@
       <workItem from="1688552195525" duration="627000" />
       <workItem from="1688641458372" duration="627000" />
       <workItem from="1688726682571" duration="1250000" />
-      <workItem from="1688800477608" duration="1004000" />
+      <workItem from="1688800477608" duration="1598000" />
     </task>
     <servers />
   </component>
