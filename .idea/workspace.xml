@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/직각삼각형 출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/직각삼각형 출력하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +287,8 @@
       <workItem from="1688874494413" duration="615000" />
       <workItem from="1688982600400" duration="721000" />
       <workItem from="1689087214699" duration="130000" />
-      <workItem from="1689167735178" duration="240000" />
+      <workItem from="1689167735178" duration="247000" />
+      <workItem from="1689241770535" duration="53000" />
     </task>
     <servers />
   </component>
