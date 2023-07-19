@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/외계행성의 나이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -296,6 +297,7 @@
       <workItem from="1689594523504" duration="722000" />
       <workItem from="1689681108315" duration="1217000" />
       <workItem from="1689682693109" duration="594000" />
+      <workItem from="1689778142224" duration="63000" />
     </task>
     <servers />
   </component>
