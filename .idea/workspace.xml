@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/인덱스 바꾸기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/인덱스 바꾸기.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,7 +297,7 @@
       <workItem from="1689778142224" duration="671000" />
       <workItem from="1689860459237" duration="543000" />
       <workItem from="1689938245441" duration="323000" />
-      <workItem from="1690037731981" duration="53000" />
+      <workItem from="1690037731981" duration="59000" />
     </task>
     <servers />
   </component>
