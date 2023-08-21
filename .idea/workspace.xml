@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/팩토리얼.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/팩토리얼.java" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -334,7 +332,7 @@
       <workItem from="1692365224710" duration="694000" />
       <workItem from="1692367491646" duration="11000" />
       <workItem from="1692444800657" duration="644000" />
-      <workItem from="1692502443007" duration="1203000" />
+      <workItem from="1692502443007" duration="1574000" />
     </task>
     <servers />
   </component>
