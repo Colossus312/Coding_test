@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/문자열 뒤집기 2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/숨어있는 숫자의 덧셈 (2).java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/숨어있는 숫자의 덧셈 (2).java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -344,6 +344,7 @@
       <workItem from="1693058009658" duration="147000" />
       <workItem from="1693147457304" duration="178000" />
       <workItem from="1693304813097" duration="1592000" />
+      <workItem from="1693321455612" duration="40000" />
     </task>
     <servers />
   </component>
