@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/한 번만 등장한 문자.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/배열의 길이를 2의 거듭제곱으로 만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/배열의 길이를 2의 거듭제곱으로 만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,6 +353,7 @@
       <workItem from="1693827631339" duration="164000" />
       <workItem from="1693918295816" duration="1382000" />
       <workItem from="1694004739401" duration="351000" />
+      <workItem from="1694091547446" duration="286000" />
     </task>
     <servers />
   </component>
