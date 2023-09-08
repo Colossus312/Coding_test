@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Programmers/문자열 반복해서 출력하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/문자열 반복해서 출력하기.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -352,7 +354,7 @@
       <workItem from="1694004739401" duration="351000" />
       <workItem from="1694091547446" duration="315000" />
       <workItem from="1694197316258" duration="842000" />
-      <workItem from="1694231985250" duration="258000" />
+      <workItem from="1694231985250" duration="434000" />
     </task>
     <servers />
   </component>
