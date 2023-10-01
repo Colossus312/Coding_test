@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/삼각형의 완성조건 (2).java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -379,7 +380,7 @@
       <workItem from="1695953535272" duration="422000" />
       <workItem from="1695954187583" duration="1120000" />
       <workItem from="1696014877849" duration="26000" />
-      <workItem from="1696137954421" duration="687000" />
+      <workItem from="1696137954421" duration="1295000" />
     </task>
     <servers />
   </component>
