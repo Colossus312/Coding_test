@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/유한소수 판별하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -397,7 +398,7 @@
       <workItem from="1697341014090" duration="662000" />
       <workItem from="1697454428159" duration="670000" />
       <workItem from="1697543543497" duration="1150000" />
-      <workItem from="1697634287780" duration="632000" />
+      <workItem from="1697634287780" duration="642000" />
     </task>
     <servers />
   </component>
