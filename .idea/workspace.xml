@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/분수의 덧셈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/분수의 덧셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/분수의 덧셈.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -419,7 +418,7 @@
       <workItem from="1699071228299" duration="1306000" />
       <workItem from="1699163423153" duration="450000" />
       <workItem from="1699266261817" duration="1216000" />
-      <workItem from="1699358297816" duration="24000" />
+      <workItem from="1699358297816" duration="29000" />
     </task>
     <servers />
   </component>
