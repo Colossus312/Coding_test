@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/서울에 위치한 식당 목록 출력하기.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -418,7 +420,7 @@
       <workItem from="1699266261817" duration="1216000" />
       <workItem from="1699358297816" duration="37000" />
       <workItem from="1699526382512" duration="1420000" />
-      <workItem from="1699541853664" duration="1309000" />
+      <workItem from="1699541853664" duration="1672000" />
     </task>
     <servers />
   </component>
