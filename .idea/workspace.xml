@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/오프라인 온라인 판매 데이터 통합하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -425,7 +426,7 @@
       <workItem from="1699853277156" duration="933000" />
       <workItem from="1699962994623" duration="1625000" />
       <workItem from="1700050808783" duration="661000" />
-      <workItem from="1700133966148" duration="1202000" />
+      <workItem from="1700133966148" duration="1239000" />
     </task>
     <servers />
   </component>
