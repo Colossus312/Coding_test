@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/조건에 맞는 사용자와 총 거래금액 조회하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/조건에 맞는 사용자와 총 거래금액 조회하기.sql" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -430,7 +428,7 @@
       <workItem from="1700317396346" duration="675000" />
       <workItem from="1700367851770" duration="261000" />
       <workItem from="1700474246801" duration="1228000" />
-      <workItem from="1700572958039" duration="609000" />
+      <workItem from="1700572958039" duration="616000" />
     </task>
     <servers />
   </component>
