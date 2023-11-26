@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/자동차 대여 기록에서 대여중 대여 가능 여부 구분하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/자동차 대여 기록에서 대여중 대여 가능 여부 구분하기.sql" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -435,7 +433,7 @@
       <workItem from="1700737491969" duration="379000" />
       <workItem from="1700737883648" duration="29000" />
       <workItem from="1700826186638" duration="854000" />
-      <workItem from="1700882543773" duration="648000" />
+      <workItem from="1700882543773" duration="654000" />
     </task>
     <servers />
   </component>
