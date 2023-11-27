@@ -1,0 +1,33 @@
+WITH MonthlyRentalCounts AS (
+    SELECT
+        EXTRACT(MONTH FROM START_DATE) AS MONTH,
+    CAR_ID,
+    COUNT(*) AS RECORDS
+FROM
+    CAR_RENTAL_COMPANY_RENTAL_HISTORY
+WHERE
+    START_DATE >= '2022-08-01' AND START_DATE <= '2022-10-31'
+GROUP BY
+    EXTRACT(MONTH FROM START_DATE), CAR_ID
+    ),
+    TotalRentals AS (
+SELECT
+    CAR_ID,
+    SUM(RECORDS) AS TOTAL_RECORDS
+FROM
+    MonthlyRentalCounts
+GROUP BY
+    CAR_ID
+HAVING
+    SUM(RECORDS) >= 5
+    )
+SELECT
+    m.MONTH,
+    m.CAR_ID,
+    m.RECORDS
+FROM
+    MonthlyRentalCounts m
+        JOIN
+    TotalRentals t ON m.CAR_ID = t.CAR_ID
+ORDER BY
+    m.MONTH ASC, m.CAR_ID DESC;
