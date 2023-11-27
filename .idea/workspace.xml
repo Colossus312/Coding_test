@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기.sql" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -436,7 +434,7 @@
       <workItem from="1700737883648" duration="29000" />
       <workItem from="1700826186638" duration="854000" />
       <workItem from="1700882543773" duration="654000" />
-      <workItem from="1700969297923" duration="610000" />
+      <workItem from="1700969297923" duration="642000" />
     </task>
     <servers />
   </component>
