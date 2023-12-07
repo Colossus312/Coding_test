@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/재구매가 일어난 상품과 회원 리스트 구하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/재구매가 일어난 상품과 회원 리스트 구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/재구매가 일어난 상품과 회원 리스트 구하기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,7 +449,7 @@
       <workItem from="1701776599341" duration="43000" />
       <workItem from="1701776649708" duration="380000" />
       <workItem from="1701857146413" duration="642000" />
-      <workItem from="1701949842622" duration="58000" />
+      <workItem from="1701949842622" duration="671000" />
     </task>
     <servers />
   </component>
