@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/조건에 부합하는 중고거래 상태 조회하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -458,7 +459,7 @@
       <workItem from="1701857146413" duration="642000" />
       <workItem from="1701949842622" duration="700000" />
       <workItem from="1701950809030" duration="145000" />
-      <workItem from="1702044831664" duration="608000" />
+      <workItem from="1702044831664" duration="666000" />
     </task>
     <servers />
   </component>
