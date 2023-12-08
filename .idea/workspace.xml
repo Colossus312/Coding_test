@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/재구매가 일어난 상품과 회원 리스트 구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/재구매가 일어난 상품과 회원 리스트 구하기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alehd/IdeaProjects/Coding_test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -65,6 +65,13 @@
       <recent name="C:\Users\alehd\IdeaProjects\Coding_test\Programmers" />
       <recent name="C:\Users\alehd\IdeaProjects\Coding_test" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-3183f394aec4-d55de845" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -449,7 +456,9 @@
       <workItem from="1701776599341" duration="43000" />
       <workItem from="1701776649708" duration="380000" />
       <workItem from="1701857146413" duration="642000" />
-      <workItem from="1701949842622" duration="671000" />
+      <workItem from="1701949842622" duration="700000" />
+      <workItem from="1701950809030" duration="145000" />
+      <workItem from="1702044831664" duration="608000" />
     </task>
     <servers />
   </component>
