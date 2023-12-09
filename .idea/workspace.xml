@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/자동차 평균 대여 기간 구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/자동차 평균 대여 기간 구하기.sql" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -459,7 +457,7 @@
       <workItem from="1701949842622" duration="700000" />
       <workItem from="1701950809030" duration="145000" />
       <workItem from="1702044831664" duration="690000" />
-      <workItem from="1702135157558" duration="327000" />
+      <workItem from="1702135157558" duration="459000" />
     </task>
     <servers />
   </component>
