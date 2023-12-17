@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Programmers/인기있는 아이스크림.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/인기있는 아이스크림.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -466,7 +468,7 @@
       <workItem from="1702549679261" duration="1212000" />
       <workItem from="1702648708291" duration="643000" />
       <workItem from="1702652671447" duration="169000" />
-      <workItem from="1702804653102" duration="317000" />
+      <workItem from="1702804653102" duration="344000" />
     </task>
     <servers />
   </component>
