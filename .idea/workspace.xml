@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/[PCCE 기출문제] 8번 창고 정리.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -481,7 +482,7 @@
       <workItem from="1703757035929" duration="715000" />
       <workItem from="1703838308765" duration="416000" />
       <workItem from="1703866813146" duration="123000" />
-      <workItem from="1704021357390" duration="608000" />
+      <workItem from="1704021357390" duration="643000" />
     </task>
     <servers />
   </component>
