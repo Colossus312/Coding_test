@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/[PCCE 기출문제] 10번 데이터 분석.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -491,7 +488,7 @@
       <workItem from="1704551565137" duration="3814000" />
       <workItem from="1704714605063" duration="622000" />
       <workItem from="1704794059132" duration="625000" />
-      <workItem from="1704981114195" duration="654000" />
+      <workItem from="1704981114195" duration="723000" />
     </task>
     <servers />
   </component>
