@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Programmers/조건에 맞는 아이템들의 가격의 총합 구하기.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -663,7 +664,8 @@
       <workItem from="1718548499174" duration="728000" />
       <workItem from="1718618088192" duration="878000" />
       <workItem from="1718711383486" duration="2354000" />
-      <workItem from="1718795568314" duration="1424000" />
+      <workItem from="1718795568314" duration="1430000" />
+      <workItem from="1721465070456" duration="2283000" />
     </task>
     <servers />
   </component>
