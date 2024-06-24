@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Programmers/ROOT 아이템 구하기.sql" afterDir="false" />
-    </list>
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -664,7 +662,7 @@
       <workItem from="1718618088192" duration="878000" />
       <workItem from="1718711383486" duration="2354000" />
       <workItem from="1718795568314" duration="1430000" />
-      <workItem from="1721465070456" duration="2676000" />
+      <workItem from="1721465070456" duration="2691000" />
     </task>
     <servers />
   </component>
