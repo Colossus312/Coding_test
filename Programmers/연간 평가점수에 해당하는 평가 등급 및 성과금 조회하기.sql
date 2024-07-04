@@ -1,0 +1,29 @@
+SELECT
+    E.EMP_NO,
+    E.EMP_NAME,
+    CASE
+        WHEN G.TOTAL_SCORE >= 96 THEN 'S'
+        WHEN G.TOTAL_SCORE >= 90 THEN 'A'
+        WHEN G.TOTAL_SCORE >= 80 THEN 'B'
+        ELSE 'C'
+        END AS GRADE,
+    CASE
+        WHEN G.TOTAL_SCORE >= 96 THEN ROUND(E.SAL * 0.20)
+        WHEN G.TOTAL_SCORE >= 90 THEN ROUND(E.SAL * 0.15)
+        WHEN G.TOTAL_SCORE >= 80 THEN ROUND(E.SAL * 0.10)
+        ELSE 0
+        END AS BONUS
+FROM
+    HR_EMPLOYEES E
+        JOIN
+    (SELECT
+         EMP_NO,
+         SUM(SCORE)/2 AS TOTAL_SCORE
+     FROM
+         HR_GRADE
+     WHERE
+         YEAR = 2022
+     GROUP BY
+         EMP_NO) G ON E.EMP_NO = G.EMP_NO
+ORDER BY
+    E.EMP_NO ASC;
