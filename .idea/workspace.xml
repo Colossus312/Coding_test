@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Programmers/특정 조건을 만족하는 물고기별 수와 최대 길이 구하기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/특정 조건을 만족하는 물고기별 수와 최대 길이 구하기.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/업그레이드 할 수 없는 아이템 구하기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -664,7 +665,7 @@
       <workItem from="1718618088192" duration="878000" />
       <workItem from="1718711383486" duration="2354000" />
       <workItem from="1718795568314" duration="1430000" />
-      <workItem from="1721465070456" duration="4536000" />
+      <workItem from="1721465070456" duration="4736000" />
     </task>
     <servers />
   </component>
