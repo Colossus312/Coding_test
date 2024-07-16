@@ -1,0 +1,20 @@
+WITH RankedEcoli AS (
+    SELECT
+        ID,
+        SIZE_OF_COLONY,
+        NTILE(4) OVER (ORDER BY SIZE_OF_COLONY DESC) AS RANK_BUCKET
+    FROM
+        ECOLI_DATA
+)
+SELECT
+    ID,
+    CASE
+        WHEN RANK_BUCKET = 1 THEN 'CRITICAL'
+        WHEN RANK_BUCKET = 2 THEN 'HIGH'
+        WHEN RANK_BUCKET = 3 THEN 'MEDIUM'
+        WHEN RANK_BUCKET = 4 THEN 'LOW'
+        END AS COLONY_NAME
+FROM
+    RankedEcoli
+ORDER BY
+    ID ASC;
