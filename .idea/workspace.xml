@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/부모의 형질을 모두 가지는 대장균 찾기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/부모의 형질을 모두 가지는 대장균 찾기.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/특정 형질을 가지는 대장균 찾기.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/특정 형질을 가지는 대장균 찾기.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -665,7 +665,7 @@
       <workItem from="1718618088192" duration="878000" />
       <workItem from="1718711383486" duration="2354000" />
       <workItem from="1718795568314" duration="1430000" />
-      <workItem from="1721465070456" duration="5606000" />
+      <workItem from="1721465070456" duration="5688000" />
     </task>
     <servers />
   </component>
