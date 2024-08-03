@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="" />
+    <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BaekJoon/1012.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -678,7 +680,7 @@
       <workItem from="1722418388573" duration="1936000" />
       <workItem from="1722523573911" duration="236000" />
       <workItem from="1722602729797" duration="1179000" />
-      <workItem from="1722680705346" duration="2260000" />
+      <workItem from="1722680705346" duration="2354000" />
     </task>
     <servers />
   </component>
