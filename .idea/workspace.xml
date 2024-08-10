@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b67fffa-4a30-4fd8-963b-316807ed4772" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BaekJoon/25682.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoon/25682.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +69,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18968.26" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18968.26" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -687,7 +687,10 @@
       <workItem from="1722956479581" duration="51000" />
       <workItem from="1723042348189" duration="299000" />
       <workItem from="1723204765023" duration="781000" />
-      <workItem from="1723209319137" duration="751000" />
+      <workItem from="1723209319137" duration="782000" />
+      <workItem from="1723288134508" duration="184000" />
+      <workItem from="1723288357718" duration="60000" />
+      <workItem from="1723290426273" duration="1191000" />
     </task>
     <servers />
   </component>
